@@ -1,0 +1,17 @@
+D:\TelbizAPiAutomation\src\main\java\crm\framework\config\ImplementConfig.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\db\connections\OracleJDBCConnection.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\exception\FrameworkExceptions.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\db\QueryResult.java
+D:\TelbizAPiAutomation\src\main\java\crm\telbiz\api\Accesstoken\GetMIFEAccesstoken.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\config\ConfigReader.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\config\DefaultConfig.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\db\ElementNotFoundException.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\exception\TestSuitException.java
+D:\TelbizAPiAutomation\src\main\java\crm\telbiz\api\db\SQLQUERIES.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\util\Timeout.java
+D:\TelbizAPiAutomation\src\main\java\crm\telbiz\api\calls\Sheduler.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\db\sql\executers\SQLExecuter.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\config\ConfigKeys.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\exception\ConfigFileException.java
+D:\TelbizAPiAutomation\src\main\java\crm\framework\util\Default.java
+D:\TelbizAPiAutomation\src\main\java\crm\telbiz\api\calls\TestApp.java

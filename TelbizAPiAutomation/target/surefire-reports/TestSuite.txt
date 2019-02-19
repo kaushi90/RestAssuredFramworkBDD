@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 4.667 s <<< FAILURE! - in TestSuite
+ActivaeEbill(crm.telbiz.api.calls.TestApp)  Time elapsed: 0.728 s  <<< FAILURE!
+io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+	at crm.telbiz.api.calls.TestApp.ActivaeEbill(TestApp.java:158)
+Caused by: groovy.json.JsonException: Lexing failed on line: 1, column: 1, while reading '<', no possible valid JSON value or punctuation could be recognized.
+	at crm.telbiz.api.calls.TestApp.ActivaeEbill(TestApp.java:158)
+
+eEbillRegStatusAPI(crm.telbiz.api.calls.TestApp)  Time elapsed: 0.292 s  <<< FAILURE!
+java.lang.AssertionError: expected [200] but found [401]
+	at crm.telbiz.api.calls.TestApp.eEbillRegStatusAPI(TestApp.java:49)
+

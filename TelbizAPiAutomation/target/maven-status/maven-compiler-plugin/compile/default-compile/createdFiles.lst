@@ -1,0 +1,17 @@
+crm\framework\util\Default.class
+crm\framework\config\ConfigKeys.class
+crm\framework\exception\FrameworkExceptions.class
+crm\telbiz\api\calls\TestApp.class
+crm\framework\config\ImplementConfig.class
+crm\framework\config\ConfigReader.class
+crm\framework\db\connections\OracleJDBCConnection.class
+crm\framework\db\sql\executers\SQLExecuter.class
+crm\framework\exception\ConfigFileException.class
+crm\framework\exception\TestSuitException.class
+crm\framework\util\Timeout.class
+crm\telbiz\api\calls\Sheduler.class
+crm\framework\db\QueryResult.class
+crm\framework\db\ElementNotFoundException.class
+crm\telbiz\api\db\SQLQUERIES.class
+crm\framework\config\DefaultConfig.class
+crm\telbiz\api\Accesstoken\GetMIFEAccesstoken.class
