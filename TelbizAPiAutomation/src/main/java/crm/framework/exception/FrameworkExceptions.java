@@ -1,8 +1,5 @@
 package crm.framework.exception;
 
-/*
-   @Auther Anusha Eranda
- */
 
 import org.apache.log4j.Logger;
 
