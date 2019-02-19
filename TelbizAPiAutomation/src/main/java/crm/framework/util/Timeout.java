@@ -1,9 +1,5 @@
 package crm.framework.util;
 
-/*
-   @Auther Anusha Eranda
- */
-
 public enum Timeout {
     WAIT_TIMEOUT(60000L),
     VERIFY_TIMEOUT(60000L),
