@@ -1,8 +1,5 @@
 package crm.framework.util;
 
-/*
-   @Auther Anusha Eranda
- */
 
 public enum Default {
     CONFIG_PATH("/config/config.cfg"),
