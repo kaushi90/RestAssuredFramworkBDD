@@ -1,8 +1,5 @@
 package crm.framework.config;
 
-/*
-   @Auther Anusha Eranda
- */
 
 public interface ImplementConfig {
 
