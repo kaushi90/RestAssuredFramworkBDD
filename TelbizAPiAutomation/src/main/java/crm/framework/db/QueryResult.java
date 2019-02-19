@@ -7,10 +7,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-/*
-   @Auther Anusha Eranda
- */
-
 public class QueryResult {
     private List<Map<String, String>> result = new ArrayList();
 
