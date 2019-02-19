@@ -8,9 +8,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
 
-/*
-   @Auther Anusha Eranda
- */
+
 
 public class DefaultConfig implements ImplementConfig {
 
