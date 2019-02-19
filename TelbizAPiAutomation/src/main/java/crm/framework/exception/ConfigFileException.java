@@ -1,8 +1,5 @@
 package crm.framework.exception;
 
-/*
-   @Auther Anusha Eranda
- */
 
 public class ConfigFileException extends FrameworkExceptions{
 
