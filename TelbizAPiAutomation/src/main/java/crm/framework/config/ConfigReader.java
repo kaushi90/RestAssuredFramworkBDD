@@ -16,9 +16,6 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/*
-   @Auther Anusha Eranda
- */
 
 public class ConfigReader {
 
